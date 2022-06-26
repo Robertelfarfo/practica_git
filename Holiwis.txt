@@ -5,3 +5,7 @@ solo una historia
 agrego mi edad y es 26
 
 otra modificacion
+
+Me gusta la leche con chocolate.
+
+Sigo la clase de Platzi cobre Git.
