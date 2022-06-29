@@ -31,5 +31,5 @@ if __name__ =="__main__":
     contar = input()
     print(contador(contar))
 
-    print("El numero 1782: ", par_impar(1782))
+    print("El numero 81: ", par_impar(81))
     analizis()
