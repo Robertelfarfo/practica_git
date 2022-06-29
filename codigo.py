@@ -29,7 +29,7 @@ def analizis():
 if __name__ =="__main__":
     print("Da una frase")
     contar = input()
-    contador(contar)
+    print(contador(contar))
 
-    par_impar(67)
+    print("El numero 67: ", par_impar(67))
     analizis()
