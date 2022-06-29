@@ -20,6 +20,10 @@ def analizis():
     a = pd.DataFrame(data = {"sup": ["Robin","superman","batman","wonderwoman","meave","Raven"],
                              "Poder": [100,900,940,870,901,1000]})
     print(a)
+    print("Ahora solo los superheroes con poder mayor a 900")
+
+    b = a[a["Poder"] >= 900]
+    print(b)
     return
 
 if __name__ =="__main__":
