@@ -20,9 +20,9 @@ def analizis():
     a = pd.DataFrame(data = {"sup": ["Robin","superman","batman","wonderwoman","meave","Raven"],
                              "Poder": [100,900,940,870,901,1000]})
     print(a)
-    print("Ahora solo los superheroes con poder mayor a 900")
+    print("Ahora solo los superheroes con poder mayor a 870")
 
-    b = a[a["Poder"] >= 900]
+    b = a[a["Poder"] >= 870]
     print(b)
     return
 
@@ -31,5 +31,5 @@ if __name__ =="__main__":
     contar = input()
     print(contador(contar))
 
-    print("El numero 67: ", par_impar(67))
+    print("El numero 1782: ", par_impar(1782))
     analizis()
