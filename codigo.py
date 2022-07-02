@@ -33,4 +33,4 @@ if __name__ =="__main__":
 
     print("El numero 81: ", par_impar(81))
     analizis()
-    print("Aqui se imprime un Holis")
+    print("Aqui impirmo un Hola ")
