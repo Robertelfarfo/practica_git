@@ -4,3 +4,8 @@ def hola(nombre = str):
 def colot(color = str):
     frase = "Color favorito es  " + color
     print(frase)
+
+
+def fruta(fruta = str):
+    frase = "Mi fruta favorita es " + fruta
+    return frase
