@@ -10,6 +10,10 @@ def fruta(fruta = str):
     frase = "Mi fruta favorita es " + fruta
     return frase
 
+def main_2(main = int):
+    print("Main 2")
+    return
+    
 def main_1(main = str):
     print("Estamos en el main: ", main)
     return
