@@ -21,3 +21,7 @@ def main_1(main = str):
 def experimento(num = int):
     print("Experimento: ",num)
     return
+
+def exp_2(num = int):
+    print("Experimento 2")
+    return
