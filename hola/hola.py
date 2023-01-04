@@ -9,3 +9,7 @@ def colot(color = str):
 def fruta(fruta = str):
     frase = "Mi fruta favorita es " + fruta
     return frase
+
+def main_1(main = str):
+    print("Estamos en el main: ", main)
+    return
